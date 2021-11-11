@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=lore, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <header> 
+       <div class="wrapper">
+           <div class="logo">
+               <img src="images/logo.png" alt="">
+           </div>
+           <ul class="nav-area">
+               li><a href="#">home</a></li>
+               li><a href="#">python</a></li>
+               li><a href="#">html</a></li>
+               li><a href="#">file:///Users/mac/Downloads/index%20(2).html></li>
+               li><a href="#">javascript</a></li>
+               li><a href="#">CSS</a></li>
+           </ul>
+       </div>
+
+       <div class="welcome-text">
+           <h1>We are web developper</h1>
+           <a href="#">Contact Us</a>
+       </div>
+   </header>
+
+</body>
+</html>
